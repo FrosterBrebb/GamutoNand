@@ -1,5 +1,5 @@
 # GamutoNand
-A pointless but gamutating CFW
+A pointless but gamutating 3DS CFW
 
 Currently just an italian translation of Luma3DS/AuReiNAND,but planning to add some nice features.
 
